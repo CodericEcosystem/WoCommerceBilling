@@ -1,11 +1,10 @@
 ---
 layout: pagina
-title: Coderic Template
+title: Módulo de Facturación para WooCommerce
 permalink: /
 canonical_url: https://schema.coderic.net/
 sitemap: false
 ---
-# Lorem ipsum dolor sit amet
 ## Aliquam ut mauris tellus
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vitae leo vestibulum, convallis augue nec, ullamcorper turpis. Fusce sed metus at eros sollicitudin fermentum. Nulla non sodales arcu, at consectetur velit. Donec aliquam lectus diam, eget porta velit sollicitudin vel. Maecenas dui dolor, tempor ut rutrum non, luctus et magna. Curabitur eget tellus eget dolor tincidunt interdum. Aliquam nisi lacus, sagittis eu neque eget, mattis pharetra diam. Mauris at justo eros. Donec convallis ullamcorper felis, et semper arcu rutrum ullamcorper. Sed aliquam ipsum sed erat consectetur vehicula. Cras at libero at mi bibendum condimentum quis vel nunc. Pellentesque condimentum, nulla eu finibus facilisis, libero tortor accumsan dui, sed ultricies elit ex a enim. Pellentesque non mi augue. Duis eu purus mauris.
